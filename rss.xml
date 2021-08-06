@@ -833,7 +833,7 @@
 <title>I'm Back Again</title>
 <guid>https://koreymoffett.com/blog/im-back</guid>
 <link>https://koreymoffett.com/blog/im-back</link>
-<pubDate>Thu, 08 Aug 2021 06:30:00 UTC</pubDate>
+<pubDate>Thu, 05 Aug 2021 06:30:00 UTC</pubDate>
 <description>
     <![CDATA[
             <h1 class="subtitle">I have a job now, give me a break lol</h1>
@@ -846,5 +846,34 @@
 ]]>
 </description>
 </item>
+
+<title>Back to VIM</title>
+<guid>https://koreymoffett.com/blog/back-to-vim</guid>
+<link>https://koreymoffett.com/blog/back-to-vim</link>
+<pubDate>Thu, 06 Aug 2021 06:30:00 UTC</pubDate>
+<description>
+    <![CDATA[
+            <h1 class="subtitle">Am I home now?</h1>
+            <br>
+            <p class="has-text-black">
+                As anyone who has read any of my blog post would know I had a period of time where I was obsessed with Emacs, Doom Emacs to be more accurate.
+                <br>
+                <br>
+                I did everything in Emacs from tooting on mastodon to looking through my directoies on my computer but recently that has changed, I have known about SpaceVIM for a while but I've decided to give it a try but not how you may think.
+                <br>
+                I will be using SpaceVIM with GVim for any who doesn't know GVim is the GUI version of VIM which is normally used at the commandline.
+            </p>
+            <br>
+            <p class="has-text-black">
+              I plan to give updates in my journy with GVim and SpaceVIM so stick around for that :)
+
+              <br>
+              <br>
+              Thanks for reading :)
+            </p>
+]]>
+</description>
+</item>
+
 </channel>
 </rss>
